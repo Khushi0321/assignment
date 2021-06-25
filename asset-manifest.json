@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/assignment/static/js/main.1b52f693.chunk.js",
+    "main.js.map": "/assignment/static/js/main.1b52f693.chunk.js.map",
+    "runtime-main.js": "/assignment/static/js/runtime-main.7c762bb4.js",
+    "runtime-main.js.map": "/assignment/static/js/runtime-main.7c762bb4.js.map",
+    "static/js/2.fde1b762.chunk.js": "/assignment/static/js/2.fde1b762.chunk.js",
+    "static/js/2.fde1b762.chunk.js.map": "/assignment/static/js/2.fde1b762.chunk.js.map",
+    "static/js/3.74da6598.chunk.js": "/assignment/static/js/3.74da6598.chunk.js",
+    "static/js/3.74da6598.chunk.js.map": "/assignment/static/js/3.74da6598.chunk.js.map",
+    "index.html": "/assignment/index.html",
+    "static/js/2.fde1b762.chunk.js.LICENSE.txt": "/assignment/static/js/2.fde1b762.chunk.js.LICENSE.txt",
+    "static/media/Housefour.fac790f5.jpg": "/assignment/static/media/Housefour.fac790f5.jpg",
+    "static/media/Houseone.240cad6a.jpg": "/assignment/static/media/Houseone.240cad6a.jpg",
+    "static/media/Housethree.77d1bcde.jpg": "/assignment/static/media/Housethree.77d1bcde.jpg",
+    "static/media/Housetwo.80f3236e.jpg": "/assignment/static/media/Housetwo.80f3236e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c762bb4.js",
+    "static/js/2.fde1b762.chunk.js",
+    "static/js/main.1b52f693.chunk.js"
+  ]
+}
